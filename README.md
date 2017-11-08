@@ -1,0 +1,2 @@
+# InventCorp
+Proyecto sobre inventarios
